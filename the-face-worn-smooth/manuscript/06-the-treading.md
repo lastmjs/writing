@@ -11,7 +11,7 @@ When the officials opened the box, a little murmur ran down the line, as it does
 
 The thing they lifted out and laid on the straw mat was not a board at all. It was a plaque of brass, a little longer than a man's hand from wrist to fingertip, with a raised rim all around like the edge of a tray. It caught the low winter sun and shone, gold, like nothing anyone in Kōya-machi had ever seen lying in the dirt of their lane. In the middle of it, standing up out of the metal so that it threw a small shadow, was the figure of a man on a cross.
 
-His arms were stretched wide along the crossbeam, and his head had fallen forward onto his shoulder, and his feet were nailed together, one over the other, at the foot of the cross. A cloth was knotted around his hips, its loose end lifting as if in a wind. Above his head was a little board with letters on it in the foreign script. And below him, very small and fine, there was a city with walls and towers and domed roofs, a city in a far country, outside whose walls they had killed him.
+His arms were stretched wide along the crossbeam, and his head was bowed a little to one side, and his feet were nailed together, one over the other, at the foot of the cross. A cloth was knotted around his hips, its loose end lifting as if in a wind. Above his head was a little board with letters on it in the foreign script. And below him, very small and fine, there was a city with walls and towers and domed roofs, a city in a far country, outside whose walls they had killed him.
 
 Yoichi was halfway down the line, between the dyer's family and Osen and the child. He could see it from where he stood. The sun was full on it.
 

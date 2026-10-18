@@ -113,7 +113,14 @@ def parse(path):
             if opening:
                 cls.append("opening")
             c = f' class="{" ".join(cls)}"' if cls else ""
-            out.append(f"<p{c}>{inline(val)}</p>")
+            if opening:
+                # no soft hyphens in the small-caps first line of a chapter
+                cut = val.find(" ", 90)
+                cut = len(val) if cut < 0 else cut
+                head, tail = val[:cut], val[cut:]
+                out.append(f"<p{c}>{inline(head, False)}{inline(tail)}</p>")
+            else:
+                out.append(f"<p{c}>{inline(val)}</p>")
             first = opening = False
     return heading, sub, "\n".join(out)
 
