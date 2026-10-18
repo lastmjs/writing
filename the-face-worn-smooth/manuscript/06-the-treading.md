@@ -53,7 +53,7 @@ It was only this: that he had seen a face. A tired face, a man's face, with its 
 
 *Peter, do you love me?*
 
-The clerk carried the brass next door and bent and laid it on the mat inside Yoichi's own doorway, on the earthen floor where he had sat three nights before mending his sandal and telling a child about a man who went out into the hills to look for a sheep.
+The clerk carried the brass next door and bent and laid it on the mat inside Yoichi's own doorway, on the earthen floor where he had sat four nights before mending his sandal and telling a child about a man who went out into the hills to look for a sheep.
 
 "Yoichi." It was Shōzaemon, at the threshold, with the register open and his brush in his hand. "Yoichi. It's your turn."
 
