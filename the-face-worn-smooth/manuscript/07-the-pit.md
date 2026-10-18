@@ -63,7 +63,7 @@ They took him up to Nishizaka in a cart, on a morning of thin cold rain, along t
 
 The pit was at the top of the hill. It was a hole in the ground, deep as a well and narrow as a man's shoulders, and in the bottom of it, they told him, was filth. Over the top they had built a frame of timber, with two boards that closed together like a pair of hands, with a hole between them.
 
-They bound his body tightly with rope, from his chest to his knees, so that the blood would not all rush to his head at once, and he would not die too soon. They made a small cut at his temple, behind the ear, so the blood would drip out slowly from there. Then they tied his feet together and hung him by them from the frame, head down into the dark, and closed the boards around his waist, so that his legs were up in the cold rain and air, and the rest of him was below, in the pit.
+They bound his body tightly with rope, from his chest to his knees, so that the blood would not all rush to his head at once, and he would not die too soon. They made a small cut at his temple, so the blood would drip out slowly from there. Then they tied his feet together and hung him by them from the frame, head down into the dark, and closed the boards around his waist, so that his legs were up in the cold rain and air, and the rest of him was below, in the pit.
 
 They left his right hand free. That was the custom. If he wished to give up his faith, he had only to reach up out of the dark and make a sign, and they would pull him out, and give him water, and send for a doctor.
 

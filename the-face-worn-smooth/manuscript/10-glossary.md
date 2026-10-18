@@ -21,7 +21,7 @@
 
 **Kirishitan** (キリシタン). Christian, from the Portuguese *cristão*.
 
-**Konchirisan no ryaku** (こんちりさんのりやく). "A Summary of Contrition," printed by the Jesuits in 1603 for Christians who would have no priest to hear their confessions.
+**Konchirisan no ryaku** (こんちりさんのりやく). "A Summary of Contrition," compiled by the Jesuits in 1603 and copied by hand for Christians who would have no priest to hear their confessions.
 
 **Kuzure** (崩れ). "Collapse." The authorities' word for the exposure and mass arrest of a hidden-Christian community.
 

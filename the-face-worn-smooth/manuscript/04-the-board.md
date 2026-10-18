@@ -7,11 +7,11 @@ Yoichi had dreaded it for half a year. He had lain awake over it. He had asked h
 
 In the end it was very simple, as Kyūemon had said it would be.
 
-The ward elder set up a low table outside his gate, with a brazier and his writing box and the register, and the officials from the magistrate's office stood behind him in their stiff winter robes, stamping their feet against the cold. The board lay on a straw mat on the ground in front of the table. It was the same board as every year: a plank of dark wood, about as long as a man's forearm, with a little round of copper set into the middle. The whole ward lined up in the lane, household by household, in the order of the register, as they had for as long as Yoichi could remember. Children were held up by their mothers, and their bare feet set down on it, and lifted away again, laughing or wailing. Old men leaned on their sons' arms. The dyer's family went before them, all six, cheerfully, in a hurry to get back to their New Year's sake.
+The ward elder and the two ward headmen went down the lane from house to house, as they did every year, with the register and a clerk from the magistrate's office carrying the board in a wooden box. At each door the family slid it open, and the clerk laid the board on a straw mat on the earthen floor just inside, and the family stepped, one by one, in the order of the register, and pressed their seals in the book. It was the same board as every year: a plank of dark wood, about as long as a man's forearm, with a little round of copper set into the middle. Children were held up by their mothers, and their bare feet set down on it, and lifted away again, laughing or wailing. Old men leaned on their sons' arms. Next door, the dyer's family went across it all six together, cheerfully, in a hurry to get back to their New Year's sake. Then the officials were at Yoichi's door.
 
 Then it was his grandmother's turn.
 
-She walked to the mat with her back straight and her face closed like a door, and she put her foot on the copper and walked across it, and went to the table and bowed, and the ward elder found her name in the register and made his mark beside it.
+She walked to the mat with her back straight and her face closed like a door, and she put her foot on the copper and walked across it, and turned and bowed, and the ward elder found her name in the register and she pressed her seal beside it.
 
 Then it was his.
 
@@ -19,7 +19,7 @@ He had never looked at the copper before. Not once, in twenty years. He looked a
 
 He put his foot on it.
 
-It was cold. That was all. The copper was cold under his bare sole, and smooth as river stone, and then he was across it and standing at the table, and the ward elder was saying, *Yoichi, turnkey, son of Kansuke, deceased*, and dipping his brush, and the next family was coming up behind him. He bowed. He walked back down the lane. He walked into their two rooms and slid the door shut behind him and sat down on the floor with his back against it.
+It was cold. That was all. The copper was cold under his bare sole, and smooth as river stone, and then he was across it, and the ward elder was saying, *Yoichi, turnkey, son of Kansuke, deceased*, and holding out the register for his seal. He pressed it. He bowed. The clerk picked up the board and put it back in its box, and the officials moved on to the next door, and Yoichi slid his own door shut behind them and sat down on the floor with his back against it.
 
 His grandmother was kneeling by the brazier. She did not look up.
 
@@ -43,7 +43,7 @@ He learned that the valley had not let the faith go. Not all of it, not everyone
 
 The calendar was kept by an old man named Kichizaemon, in Nakano, the *chōkata*, the keeper of the book. Every year he worked out from it which days were the feasts of the Lord, and which were the days of fasting, and sent word quietly to the households. He kept other books, too, in the bottom of a chest under his winter quilts: a few precious pages copied out by hand, copies of copies, from the books the padres had printed long ago. One of them, which he showed Yoichi only after a full year of visits, was called *Konchirisan no ryaku*. *The Way of Contrition.*
 
-"The padres printed it at the very end," the old man said, "when they knew they would be driven out. Because they knew there would be no one to hear our confessions anymore. So they left us this. It teaches how to be truly sorry for our sins, not from fear of punishment, but from love of God, whom we have wounded. And it says that if a Kirishitan is truly sorry in this way, even if there is no priest, God will forgive him." He turned the brittle pages gently, with the tips of his fingers. "We pray it every year. On the day after the board."
+"The padres wrote it for us before they were driven out," the old man said, "because they knew a day might come when there would be no one to hear our confessions. So they left us this, and we have copied it out by hand ever since. It teaches how to be truly sorry for our sins, not from fear of punishment, but from love of God, whom we have wounded. And it says that if a Kirishitan is truly sorry in this way, even if there is no priest, God will forgive him." He turned the brittle pages gently, with the tips of his fingers. "We pray it every year. On the day after the board."
 
 "Every year," said Yoichi.
 
@@ -65,7 +65,7 @@ He laid his hand on the chest with the books in it.
 
 So Yoichi stepped.
 
-Every New Year, on the fourth day of the first month, the board came to Kōya-machi, and he stood in the lane with his neighbors and waited his turn, and put his foot on the cold copper face of the mother and her dead son, and walked across. And then he went home and shut the door and prayed the *Konchirisan*, which he had copied out for himself by lamplight on cheap paper in Kichizaemon's kitchen, and kept folded inside the lining of his winter coat.
+Every New Year, in the first days of the first month, the board came down the lane in Kōya-machi, and he stood in his doorway and waited his turn, and put his foot on the cold copper face of the mother and her dead son, and walked across. And then he went home and shut the door and prayed the *Konchirisan*, which he had copied out for himself by lamplight on cheap paper in Kichizaemon's kitchen, and kept folded inside the lining of his winter coat.
 
 *O Deus, who are infinitely good and worthy to be loved above all things: I am sorry with my whole heart that I have offended you.*
 

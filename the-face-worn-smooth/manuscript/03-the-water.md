@@ -3,7 +3,7 @@
 
 He asked him.
 
-It was the first warm night of the year, in the third month, when the plum blossom was over and the cherries had not yet come, and the air in the passage smelled of wet earth instead of frost. The prisoners from Kōri were fewer by then. Some had died. Some had stepped and gone home. Among those who went home was the boy who had looked at the sea. His mother had stepped for him, and then she had stepped herself, with her face like stone, and Yoichi had seen Kyūemon reach through the lattice as they passed, and touch her sleeve, and say something to her that made her stop and cover her mouth with her hand. Afterward Yoichi asked him what he had said.
+It was the first mild night of the year, in the second month, when the plum blossom was falling, and the air in the passage smelled of wet earth instead of frost. The prisoners from Kōri were fewer by then. Some had died. Some had stepped and gone home. Among those who went home was the boy who had looked at the sea. His mother had stepped for him, and then she had stepped herself, with her face like stone, and Yoichi had seen Kyūemon reach through the lattice as they passed, and touch her sleeve, and say something to her that made her stop and cover her mouth with her hand. Afterward Yoichi asked him what he had said.
 
 "I told her that God sees the heart," the old man said. "And that she must go home and teach the boy his prayers."
 
@@ -69,7 +69,7 @@ Kyūemon opened his eyes and looked at him for a long time.
 
 * * *
 
-The sentences came down from the magistrate's office at the end of the sixth month. One hundred and twenty-three of the Kōri people were to die in Nagasaki. The rest were sent to Ōmura and Hirado and Shimabara and Saga, to die there, so that the lesson would be taught in every domain. Kyūemon's name was on the Nagasaki list.
+The sentences came down from the magistrate's office in the seventh month. One hundred and twenty-three of the Kōri people were to die in Nagasaki. The rest were sent to Ōmura and Hirado and Shimabara and Saga, to die there, so that the lesson would be taught in every domain. Kyūemon's name was on the Nagasaki list.
 
 They would go out to the hill of Nishizaka in the morning. The night before, Yoichi brought the water as he always did, and went along the lattice, and came last to the old man, who was kneeling up in the straw, waiting for him.
 
