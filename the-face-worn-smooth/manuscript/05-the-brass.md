@@ -39,7 +39,7 @@ Yoichi sat down slowly on the edge of the veranda.
 
 "What is on them?" he said.
 
-"Different pictures, they say. The Mother with the child. The Mother holding him dead, as on the old boards. The Lord with his crown of thorns. And the Lord on the cross." Kichizaemon pulled the quilts closer around him. "Matakichi's wife's cousin is married to a man who sweeps the yard at the magistrate's west office, and he saw them unpacked. He said they are very fine. Better work than anything the padres ever brought from Europe. He said the Lord on the cross looked so real, so sad, that he was afraid to look at it."
+"Different pictures, they say. The Mother with the child. The Mother holding him dead, as on the old boards. The Lord with his crown of thorns. And the Lord on the cross." Kichizaemon pulled the quilts closer around him. "Matakichi's wife's cousin is married to a man who sweeps the yard at the magistrate's office, and he saw them unpacked. He said they are very fine. Better work than anything the padres ever brought from Europe. He said the Lord on the cross looked so real, so sad, that he was afraid to look at it."
 
 For a while none of them said anything. A flock of sparrows came down into the stubble of the paddy below the house and went up again all at once, like a handful of thrown grain.
 
