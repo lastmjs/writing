@@ -215,7 +215,7 @@ def build_html(pages):
 {"".join(back)}
 
 <section class="endpage">
-  <img src="cover-plate.jpg" alt="">
+  <img src="plate-photo.jpg" alt="">
   <div class="cap"><i>Fumi-e: Christ on the Cross.</i> Cast brass, 17th century.<br>
   Used by the Nagasaki magistrate’s office in the annual e-fumi.<br>
   Tokyo National Museum. Photograph © Tokyo National Museum, CC BY 4.0.</div>

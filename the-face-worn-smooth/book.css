@@ -116,7 +116,7 @@ body { margin: 0; font-size: 11.3pt; line-height: 1.47; font-kerning: normal;
 
 .text p { margin: 0; text-align: justify; hyphens: auto; text-indent: 1.4em; orphans: 2; widows: 2; }
 .text p.first { text-indent: 0; }
-.chapter .text p.opening::first-line { font-variant-caps: all-small-caps; letter-spacing: 0.05em; }
+.chapter:not(.back) .text p.opening::first-line { font-variant-caps: all-small-caps; letter-spacing: 0.05em; }
 .text .break { text-align: center; margin: 0.9em 0; color: var(--gold-dim); letter-spacing: 0.6em; padding-left: 0.6em; break-after: avoid; }
 .text blockquote { margin: 0.8em 1.4em; font-style: italic; text-align: left; break-inside: avoid; }
 .text blockquote p { text-indent: 0; text-align: left; }

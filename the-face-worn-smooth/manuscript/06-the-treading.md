@@ -19,7 +19,7 @@ He could see the face.
 
 It was not like the copper on the old board, worn to a shape. It was new. It was sharp. Every line of it was as clear as the day it came out of Hagiwara Yūsa's mold. The closed eyes. The thin cheeks. The mouth a little open, as if at the very end he had been about to say something, and had not had the breath.
 
-Kichizaemon's cousin's husband had been right. He looked so real, and so sad, that you were afraid to look at him.
+The man who swept the magistrate's yard had been right. He looked so real, and so sad, that you were afraid to look at him.
 
 The line began to move.
 

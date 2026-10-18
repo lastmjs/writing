@@ -93,6 +93,6 @@ The old man did not answer at once. Out in the passage the wind found a gap in t
 
 "Because you are afraid of your god."
 
-"No." The old man's voice was very gentle. "Because I am not afraid of him anymore. That is the difference, you see. I was, once. Then I learned what he did. And after that, how could I put my foot on his face? He has already been stepped on. For me. I will not do it again."
+"No." The old man's voice was very gentle. "Because I am not afraid of him anymore. That is the difference, you see. I was, once. Then I learned what he did. And after that, how could I put my foot on his face? He has already been stepped on. For me. I will not be one more foot."
 
 Yoichi did not understand. He did not understand at all. But that night, lying on his mat by the brazier with Gonroku snoring beside him, he found that the words would not leave him alone. *He has already been stepped on. For me.* He turned them over and over like a stone in his hand, looking for the seam.

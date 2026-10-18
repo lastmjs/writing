@@ -64,5 +64,10 @@ def main():
     canvas.save(OUT, quality=90)
     print(OUT, canvas.size)
 
+    # The unaltered museum photograph, smaller, for the credit page at the back.
+    photo = im.copy()
+    photo.thumbnail((900, 1100), Image.LANCZOS)
+    photo.save(OUT.parent / "plate-photo.jpg", quality=88)
+
 if __name__ == "__main__":
     sys.exit(main())

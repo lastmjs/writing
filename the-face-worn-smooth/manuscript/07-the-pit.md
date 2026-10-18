@@ -67,9 +67,11 @@ They bound his body tightly with rope, from his chest to his knees, so that the 
 
 They left his right hand free. That was the custom. If he wished to give up his faith, he had only to reach up out of the dark and make a sign, and they would pull him out, and give him water, and send for a doctor.
 
-It is not possible to describe the pit. Those who have been in it have not described it. The darkness and the stench and the pressure in the head, as if the skull were filling up with sand. The sound of your own blood, dripping, slowly, a drop at a time, on to the filth below. The way time comes apart, so that you cannot tell whether you have been there an hour or a day. The voices that are not there. The thirst.
+It is not possible to describe the pit. Those few who came out of it alive seldom spoke of it. The darkness and the stench and the pressure in the head, as if the skull were filling up with sand. The sound of your own blood, dripping, slowly, a drop at a time, on to the filth below. The way time comes apart, so that you cannot tell whether you have been there an hour or a day. The voices that are not there. The thirst.
 
 He prayed. When he could not pray, he said the names. When he could not say the names, he thought them. *Zezus. Maria.* When he could not think them, he hung in the dark, and that was all, and someone else held them for him.
+
+Once, in a clear moment, he remembered Peter, who had denied his Lord three times by a fire in a courtyard, and had been crucified at the end, they said, upside down. *One yes for every no.* He had said no eleven times. He thought that if he had laughed, it would have hurt very much. So he only said, inside himself, *Yes*, and then again, *yes*, and kept on, slowly, counting, until he lost count.
 
 Sometimes he thought he saw Kyūemon. Sometimes it was his grandmother, sitting at her loom with the shuttle in her hand, looking at him over her shoulder. Once, very clearly, it was Okiku, squatting at the edge of the straw mat in her padded jacket and looking at the little brass man with her finger in her mouth. *He's sad.* He wanted to tell her: *No, not anymore. Not now.* But she had gone.
 
